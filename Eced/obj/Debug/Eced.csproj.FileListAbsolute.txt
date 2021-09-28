@@ -1,0 +1,10 @@
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\bin\Debug\Eced.exe.config
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\bin\Debug\Eced.exe
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\bin\Debug\Eced.pdb
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\obj\Debug\Eced.csproj.AssemblyReference.cache
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\obj\Debug\Eced.Form1.resources
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\obj\Debug\Eced.Properties.Resources.resources
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\obj\Debug\Eced.csproj.GenerateResource.cache
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\obj\Debug\Eced.csproj.CoreCompileInputs.cache
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\obj\Debug\Eced.exe
+C:\Users\Azevedo\Documents\GitHub\Eced\Eced\obj\Debug\Eced.pdb
